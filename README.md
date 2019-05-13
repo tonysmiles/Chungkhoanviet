@@ -1,2 +1,3 @@
-# Chungkhoanviet
-Danh sách các mã giao dịch trên thị trường chứng khoán Việt Nam
+# Danh sách các mã chứng khoán Việt Nam trên Tradingview
+
+Danh sách được cập nhật liên tục
